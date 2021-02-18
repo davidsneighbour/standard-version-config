@@ -18,7 +18,7 @@
     "npm": ">=6"
   },
   "dependencies": {
-    "standard-version": "9.1.0"
+    "standard-version": "9.1.1"
   },
   "devDependencies": {
     "@dnb-hugo/commitlint-config": "github:dnb-hugo/commitlint-config",
