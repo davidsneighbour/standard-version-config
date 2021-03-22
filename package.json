@@ -14,7 +14,7 @@
   "devDependencies": {
     "@dnb-hugo/commitlint-config": "*",
     "@dnb-hugo/eslint-config": "*",
-    "@dnb-hugo/remark-config": "2.0.2",
+    "@dnb-hugo/remark-config": "2.0.3",
     "@dnb-hugo/textlint-config": "2.0.1",
     "eslint": "7.22.0",
     "eslint-config-airbnb-base": "14.2.1",
